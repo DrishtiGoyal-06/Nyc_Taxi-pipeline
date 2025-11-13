@@ -1,0 +1,9 @@
+{
+	"name": "datafactorynyctaxi2004",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f5339a0-4a02-4c19-9dad-1dff97c02f39",
+		"tenantId": "5af60ee1-b3c2-40ff-a951-b8b236e32e03"
+	}
+}
